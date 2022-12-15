@@ -1,3 +1,3 @@
 # odin-recipes
 Amateur Explorations Continued a la the Odin Project (JS Pathway)
-I'm not sure what this entails just yet... Please be patient.
+This is a simple HTML webpage which directs to three different recipes. They aren't worth investigating much. 
