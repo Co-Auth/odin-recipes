@@ -1,0 +1,17 @@
+
+body {
+    background-color: blanchedalmond;
+}
+
+
+h1 {
+    background-color: burlywood;
+    color: black;
+}
+div {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+}
